@@ -15,11 +15,6 @@ Key Features
 *   Personalization
 *   Continuous Learning
 
-Architecture
-------------
-
-![Jarvis ML Project Architecture](path/to/architecture-diagram.png)
-
 Demo
 ----
 
