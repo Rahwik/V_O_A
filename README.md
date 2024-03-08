@@ -4,7 +4,7 @@ Jarvis ML Project Presentation
 Introduction
 ------------
 
-Welcome to the presentation on our Jarvis ML project. Jarvis is an innovative machine learning project aimed at creating an intelligent virtual assistant capable of natural language processing and various other tasks.
+Welcome to the presentation on our Jarvis ML project. Jarvis is an innovative machine learning project aimed at creating an intelligent virtual assistant capable of natural language processing and various other tasks. Now text to voice command and voice command to text.
 
 Key Features
 ------------
