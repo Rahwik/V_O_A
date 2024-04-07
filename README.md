@@ -1,10 +1,10 @@
-Jarvis ML Project Presentation
+VOA : Python Project
 ==============================
 
 Introduction
 ------------
 
-Welcome to the presentation on our Jarvis ML project. Jarvis is an innovative machine learning project aimed at creating an intelligent virtual assistant capable of natural language processing and various other tasks. Now text to voice command and voice command to text.
+Welcome to the presentation on our python project. VOA is an innovative python project aimed at creating an intelligent virtual assistant capable of natural language processing and various other tasks. Now text to voice command and voice command to text.
 
 Key Features
 ------------
@@ -16,11 +16,11 @@ Key Features
 *   Continuous Learning
 
 
-# Jarvis Voice Assistant
+# Voice Operated Assistant
 
 ## Introduction
 
-Jarvis Voice Assistant is a Python-based application that utilizes speech recognition and text-to-speech technologies to perform various tasks based on user commands.
+Voice Operated Assistant is a Python-based application that utilizes speech recognition and text-to-speech technologies to perform various tasks based on user commands.
 
 ## Libraries Used
 
@@ -57,5 +57,5 @@ Jarvis Voice Assistant is a Python-based application that utilizes speech recogn
 
 ## Conclusion
 
-Jarvis Voice Assistant provides a convenient and interactive way to perform various tasks using voice commands. With its versatile functionality and easy-to-use interface, it enhances user experience and productivity.
+Voice Operatd Assistant provides a convenient and interactive way to perform various tasks using voice commands. With its versatile functionality and easy-to-use interface, it enhances user experience and productivity.
 
