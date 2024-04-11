@@ -55,6 +55,11 @@ Voice Operated Assistant is a Python-based application that utilizes speech reco
 3. Jarvis will perform the requested actions based on the commands.
 4. Terminate the program by pressing Ctrl+C.
 
+
+## Demo
+
+Here is a demo presentation of the Voice Operated Assistant and how to make the pre required libraries installation : https://youtu.be/Mc1FstS_U74?si=Fc2ZSau6cYkmFBYL .
+
 ## Conclusion
 
 Voice Operatd Assistant provides a convenient and interactive way to perform various tasks using voice commands. With its versatile functionality and easy-to-use interface, it enhances user experience and productivity.
